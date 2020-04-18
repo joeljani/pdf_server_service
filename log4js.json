@@ -1,0 +1,9 @@
+{
+  "appenders": {
+    "out": { "type": "console" },
+    "logfile": {
+      "type": "file",
+      "filename": "logfile.log"
+    }
+  }
+}
